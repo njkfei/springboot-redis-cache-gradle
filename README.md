@@ -53,3 +53,10 @@ gradle install
 ```
 gradle bootrun
 ```
+
+## 其它
+### 指定程序入口
+```
+// 指定程序入口,本项目不使用
+// mainClassName = `com.xxx.xxx.App`
+```
